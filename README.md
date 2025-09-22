@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Santhiya2007-a
 - 👀 I’m interested in listening songs
-- 🌱 I’m currently learning my knowledge 
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me in good studies 
+- 🌱 I’m currently expanding my knowledge 
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to learning tips and ways to improve my studies
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
