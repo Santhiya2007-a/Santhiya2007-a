@@ -2,8 +2,8 @@ Santhiya2007-a/README.md
 
 ## Hi, I’m @Santhiya2007-a
 
-## AI & ML Student | Electronics Enthusiast
-I am an AIML undergraduate interested in Artificial Intelligence, Embedded Systems, and Python development.
+##  Python | AIML | Embedded Systems
+AI & ML undergraduate developing skills in Python, ML basics and embedded system
 
 ## Skills
 Languages: Python, C  
@@ -17,6 +17,7 @@ Python Automation
 
 ## Contact  
 Email: sandymunijaya127@gmail.com
+LinkedIn: https://www.linkedin.com/in/santhiya-m-30708b356/
 
 <!---
 santhiya2007-a/Santhiya2007-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
