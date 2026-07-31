@@ -1,12 +1,10 @@
-<!-- Animated Header -->
 <div align="center">
 
 # Hi 👋, I'm Santhiya M
 
-### 🤖 AI & ML Student | 💻 Developer | 🚀 Building Real-World AI Projects
+### 💻 Python Developer | ☕ Java Developer | 🌐 HTML & CSS | 🚀 Future Full Stack Developer
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Machine+Learning+Explorer+%F0%9F%A7%A0;Building+Real-World+AI+Projects+%F0%9F%9A%80;Always+Learning+Something+New+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Python+Developer+🐍;Java+Developer+☕;HTML+%26+CSS+Developer+🌐;Future+Full+Stack+Developer+🚀;Always+Learning+New+Technologies+✨" />
 
 </div>
 
@@ -14,17 +12,12 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" src="YOUR_ANIMATED_GIF_URL_HERE"/>
-
-- 🎓 CSE — Artificial Intelligence & Machine Learning
-- 🤖 Passionate about **AI, ML & NLP**
-- 🔭 Currently building **real-world AI applications**
-- 🌱 Exploring **Generative AI & Advanced ML**
-- 💻 Love working with **Python**
-- 🎨 Creative side: Drawing & UI Design
-- 🎯 Goal: Build technology that creates real impact
-
-<br clear="right"/>
+- 🎓 CSE (Artificial Intelligence & Machine Learning) Student
+- 💻 Passionate about Python & Java Development
+- 🌱 Currently learning Full Stack Development
+- 🤖 Interested in AI & Machine Learning
+- 🎨 Love Drawing & UI Designing
+- 🚀 Always excited to build real-world projects
 
 ---
 
@@ -32,72 +25,43 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,mysql,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode&perline=5"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 📰 FakeGuard
-**AI-Powered Fake News Detection System**
+### 🪞 MirrorVerse – Smart Fit Recommendation
 
-🤖 NLP-based fake news detection  
-💬 Interactive chatbot  
-📊 Confidence-based predictions  
+👕 AI-powered virtual outfit recommendation
 
-### 🍽️ NutriSnap
-**AI Food Recognition & Nutrition App**
+📷 Smart clothing suggestions
 
-📸 Food image recognition  
-🥗 Nutrition analysis  
-🤖 AI-powered predictions  
+🎯 Personalized fashion recommendations
 
-### 📄 ResumeIQ
-**AI Resume Analysis Platform**
-
-📑 ATS Resume Scoring  
-🧠 NLP Skill Extraction  
-🎯 Career Matching  
-
-### ✈️ Airport Intelligence System
-**Interactive Airport Analytics Platform**
-
-🌍 Interactive Maps  
-📊 Data Analytics Dashboard  
-💬 NLP-based Q&A Assistant  
+💻 User-friendly web interface
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santhiya2007-a&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhiya2007-a&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
-
-</p>
-
----
-
-## 🐍 My Contributions
-
-<!-- Animated contribution snake -->
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://streak-stats.demolab.com?user=Santhiya2007-a&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,7 +71,17 @@
 
 <p align="center">
 
-LinkedIn • GitHub • LeetCode
+<a href="https://github.com/Santhiya2007-a">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Santhiya2007-a/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
 
@@ -115,8 +89,6 @@ LinkedIn • GitHub • LeetCode
 
 <div align="center">
 
-### 💭 Code. Learn. Build. Repeat. 🚀
-
-⭐ Thanks for visiting my profile! ⭐
+### ⭐ Keep Learning • Keep Building • Keep Growing ⭐
 
 </div>
