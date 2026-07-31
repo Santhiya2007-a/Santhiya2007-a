@@ -21,11 +21,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,java,html&perline=3"/>
 
 </p>
 
