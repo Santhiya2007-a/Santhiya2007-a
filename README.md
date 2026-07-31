@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Santhiya M
+# Hi 👋 I'm Santhiya M
 
-### 💻 Python Developer | ☕ Java Developer | 🌐 HTML & CSS | 🚀 Future Full Stack Developer
+### 🐍 Python Developer | 🤖 AI & ML | 💻 Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Python+Developer+🐍;Java+Developer+☕;HTML+%26+CSS+Developer+🌐;Future+Full+Stack+Developer+🚀;Always+Learning+New+Technologies+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Python+Developer+🐍;AI+%26+ML+Enthusiast+🤖;Full+Stack+Developer+💻;Always+Learning+New+Technologies+🚀" />
 
 </div>
 
